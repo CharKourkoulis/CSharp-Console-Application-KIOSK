@@ -1,0 +1,7 @@
+C:\Users\cult_\OneDrive\Desktop\C# Files\12.06\PeripteroClasees\PeripteroClasees\bin\Debug\PeripteroClasees.exe.config
+C:\Users\cult_\OneDrive\Desktop\C# Files\12.06\PeripteroClasees\PeripteroClasees\bin\Debug\PeripteroClasees.exe
+C:\Users\cult_\OneDrive\Desktop\C# Files\12.06\PeripteroClasees\PeripteroClasees\bin\Debug\PeripteroClasees.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\12.06\PeripteroClasees\PeripteroClasees\obj\Debug\PeripteroClasses.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\12.06\PeripteroClasees\PeripteroClasees\obj\Debug\PeripteroClasses.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\12.06\PeripteroClasees\PeripteroClasees\obj\Debug\PeripteroClasees.exe
+C:\Users\cult_\OneDrive\Desktop\C# Files\12.06\PeripteroClasees\PeripteroClasees\obj\Debug\PeripteroClasees.pdb
